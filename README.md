@@ -52,8 +52,7 @@ We selected **XGBoost** as our final winning model and saved it as `air_quality_
 ## 🚀 How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/your-username/Air-Quality-Prediction-ML.git](https://github.com/your-username/Air-Quality-Prediction-ML.git)
-
+   git clone https://github.com/Mahmoud-Elshafey/Air-Quality-Prediction-ML.git
 2. Install the required libraries:
    ```bash
    pip install pandas numpy scikit-learn xgboost matplotlib seaborn
